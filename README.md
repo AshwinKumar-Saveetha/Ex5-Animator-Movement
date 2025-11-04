@@ -1,4 +1,4 @@
-# Ex5-Animator-Movement
+# Ex7-Animator-Movement
 
 ## Aim :
 
